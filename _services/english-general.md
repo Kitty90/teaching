@@ -1,5 +1,5 @@
 ---
-title: "Accounting"
+title: "General English Language Classes"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
@@ -10,19 +10,57 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+# Course Content 
 
-Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# Teaching Method
 
-## Relevance
+## Online Classes
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## On-Site Classes
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+# Prices
+
+<!---- 
+## 60-Minute Classes
+
+| Class type        | Location* | Price per class | total |
+| ----------------- | --------- | --------------- | ------- |
+| Individual        | in-class  | 85 CHF          | 110 CHF |
+|                   | online    | 65 CHF / €59    | 90 CHF  |
+| 5-class package   | in-class  | 80 CHF          | 800 CHF |
+|                   | online    | 60 CHF / €54.5  | 600 CHF |
+| 10-class package  | in-class  | 75 CHF          | 750 CHF |
+|                   | online    | 55 CHF / €50    | 550 CHF |
+
+## 45-Minute Classes
+
+| Class type        | Location* | Price per class | total |
+| ----------------- | --------- | --------------- | ----- |
+| Individual        | in-class  | 68.75 CHF       | 110 CHF |
+|                   | online    | 48.75 CHF / €44.5 | 90 CHF  |
+| 5-class package   | in-class  | 65 CHF          | 500 CHF |
+|                   | online    | 45 CHF / €41  | 400 CHF |
+| 10-class package  | in-class  | 61.25 CHF          | 750 CHF |
+|                   | online    | 41.25 CHF / €37.5    | 550 CHF |
+
+*On-site classes only within a 30-minute travel radius (by public transport) from Zug.  --->
+
+
+## Testimonials
+> _I am only a beginner but Kitty is very patient and very adaptable to my needs as a student. I feel I am learning valuable and practical things about the Dutch language. Kitty has a wealth of knowledge about languages and it is obvious it is a passion as well as a job. I am looking forward to my next lesson._ ~ Maria Popescu
+
+>_Kitty is an excellent teacher. I specifically want to improve my English pronunciation and she helps me every step along the way, with lots of helpful material and homework specifically tailored to my needs. She also has a ton of knowledge about English, which helps tremendously with understanding the concepts and rules. I'm very happy to have her as my teacher._ ~ Jan
+
+>_Kitty has a very structured and goals-oriented approach. During the trial lesson we discussed my learning plan and as a beginner I enjoyed that I could already practice speaking and understanding Dutch, and got valuable tips. Was very useful, looking forward to have more lessons with Kitty._ ~ Maryna Tkach
+
+
+
+
+
+
+
+
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 

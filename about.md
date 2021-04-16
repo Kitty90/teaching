@@ -5,48 +5,29 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. I left the Netherlands 5 years ago when I started working remotely for educational publishers. I have lived in Spain and Belgium and recently moved to Switzerland. 
 
-## Ne verba patulosque numen vix libet
+My heart is not just in teaching, but in all aspects of education. Over the last 8 years I have worked as a (private) language teacher, test developer, textbook author and editor, and e-learning author. I have taught beginners to advanced learners, both teenagers and adults. As a teacher, I enjoy combining the knowledge and skills I have acquired to create learning plans and individualized content for students. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Educational Background
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+- 60 ECTS graduate courses in Education and Sustainability, Gothenburg University, Sweden (2020)
+- Master of Science in Digital Humanities, KU Leuven, Belgium (2019)
+- Master of Arts in Applied Linguistics - TEFL, University of Groningen, the Netherlands (2014)
+- Bachelor of Arts in English Language and Culture, University of Groningen, the Netherlands (2013)
+    - Minors in Italian Proficiency (B1), Multilingualism, Medieval and Renaissance Studies
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Languages
+I have worked in language education for 8 years and still cannot get enough of language learning! I am currently studying for the German C1 exam and taking Chinese courses as well. 
 
-## Postquam tamen
+- Dutch (native)
+- English (C2)
+- German (C1)
+- Spanish (B2)
+- French (B1)
+- Italian (B1)
+- Mandarin Chinese (A1)
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

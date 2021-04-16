@@ -1,11 +1,11 @@
 ---
-title: Services
+title: Teaching
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Language Classes
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Beginner or expert, professional or student, I offer bespoke lessons tailored to your learning goals. With my academic knowledge of language education with valuable teaching experience to provide high-quality learning materials and personalized classes. 
