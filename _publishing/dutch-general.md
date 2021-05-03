@@ -11,6 +11,9 @@ Do you want to learn the basics of Dutch? Then this is the right lesson for you.
 - following simple directions and instructions, and
 - filling out forms and providing basic information.
 
+Möchten Sie an Ihre generelle Holländischkenntnisse arbeiten? Denn dieser Kurs ist der richtige für Sie. In dieser Kurs werden wir Ihre generelle Sprachfähigkeiten verbessern, das heißt, die Fokus liegt auf das Hören, Sprechen, Lesen, Schreiben und die Grammatik und Aussprache des Niederländischen. 
+
+
 ## Testimonials
 > _Kitty has a very structured and goals-oriented approach. During the trial lesson we discussed my learning plan, and as beginner I enjoyed that I could already practice speaking and understanding Dutch, and got valuable tips. It was very useful and I am looking forward to having more lessons with Kitty._
 

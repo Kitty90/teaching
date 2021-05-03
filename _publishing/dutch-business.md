@@ -6,9 +6,9 @@ weight: 6
 layout: service
 ---
 
-These lessons are meant for intermediate (B1) to expert (C2) Dutch learners. Depending on your language level, we can focus on language skills, customs and cultural conventions for specific purposes, such as:
+These lessons are meant for intermediate (B1) to very advanced (C2) Dutch learners. Depending on your language level, we can focus on language skills, customs and cultural conventions for specific purposes, such as:
 - job interviews,
 - presentation skills, and
-- business writing (correspondence, reports, minutes) 
+- business writing (correspondence, reports, minutes). 
 
 I have developed course material for academic and business language use. Let me know what your specific goals are, so I can tailor my content to your needs.
